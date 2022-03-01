@@ -1,5 +1,5 @@
-## MY RECORD
-# happy :)
+# MY RECORD
+## happy :)
 -  👋 Hi, I’m @hyejinee24
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
