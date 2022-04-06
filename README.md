@@ -1,5 +1,5 @@
-# MY *RECORD* 💕
-## □■□■ with me :)
+# 🔍 *MY RECORD* 🔎
+## STUDY 💻 ~ ing :)
 - 👋 Hi, I’m @hyejinee24
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
