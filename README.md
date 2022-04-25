@@ -3,6 +3,7 @@
 - 👋 안녕하세용가리 ~
 - 👀 프로그래밍에 대해 공부하고 있습니다 ..
 - 🛒 C언어 / JAVA / PYTHON
+- ‼ 프로그래머스로 코딩테스트 연습하기 !!
 
 <!---
 hyejinee24/hyejinee24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +23,7 @@ https://deokdam.spartacodingclub.kr/LdWZ4Fk7WeP8/index.html
 ## Diary 📖
 -220425 velog 시작 !
 업로드가 왜 안될까 ..? 일단 여기에 옮겨놓음 ~
+<!-- 주석 -->
 ⬇⬇⬇⬇
 
 ## 🔍 _**나의 기록**_ 🔎
