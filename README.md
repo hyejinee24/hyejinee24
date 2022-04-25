@@ -18,10 +18,11 @@ https://deokdam.spartacodingclub.kr/LdWZ4Fk7WeP8/index.html
 ### 2) MY Challenge
 ![myChallenge (1)](https://user-images.githubusercontent.com/100686498/156162505-4d6a1d70-e32c-4b1c-8480-de6e15b96e67.jpg)
 
----
-#### Diary 📖
--220425 velog 시작
+
+## Diary 📖
+-220425 velog 시작 !
 업로드가 왜 안될까 ..? 일단 여기에 옮겨놓음 ~
+⬇⬇⬇⬇
 
 ## 🔍 _**나의 기록**_ 🔎
 ---
