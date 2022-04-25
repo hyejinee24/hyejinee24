@@ -1,9 +1,8 @@
 # 🔍 *MY RECORD* 🔎
 ## STUDY 💻 ~ ing :)
 - 👋 안녕하세용가리 ~
-- 👀 프로그래밍에 대해 공부하고 있습니다.
-- 🛒 C언어 / JAVA / PYTHON ..
-
+- 👀 프로그래밍에 대해 공부하고 있습니다 ..
+- 🛒 C언어 / JAVA / PYTHON
 
 <!---
 hyejinee24/hyejinee24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
