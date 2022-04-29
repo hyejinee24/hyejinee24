@@ -64,3 +64,4 @@ _Hard training_ 😏
 --> [font에 대해 여러가지](https://ojji.wayful.com/2015/03/HTML-How-to--Set-FONT-Size-Color-Weight-Family-Variant-Line-Height-ect.html)
 --> [html 폰트 변경](https://velog.io/@jennayeo/html-css-%ED%8F%B0%ED%8A%B8-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0)
 --> [구글웹폰트](https://fonts.google.com/?subset=korean)
+--> [html 이모저모](https://jasmintime.com/198)
