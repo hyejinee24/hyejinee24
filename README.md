@@ -1,9 +1,9 @@
 # 🔍 *MY RECORD* 🔎
 ## STUDY 💻 ~ ing :)
-- 👋 안녕하세용가리 ~
+- 👋 안녕하세요 !
 - 👀 프로그래밍에 대해 공부하고 있습니다 ..
-- 🛒 C언어 / JAVA / PYTHON
-- ‼ 프로그래머스로 코딩테스트 연습하기 !!
+- 🛒 JAVA & SPRING / JAVASCRIPT
+- ‼ 코테 연습
 
 <!---
 hyejinee24/hyejinee24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,8 @@ https://deokdam.spartacodingclub.kr/LdWZ4Fk7WeP8/index.html
 ![myChallenge (1)](https://user-images.githubusercontent.com/100686498/156162505-4d6a1d70-e32c-4b1c-8480-de6e15b96e67.jpg)
 
 ### 3) 2023 신년 계획 (with 스파르타코딩클럽)
+https://hyejinee24.github.io/My_page/
+![2023 신년계획](https://user-images.githubusercontent.com/100686498/205125221-d352d96b-fb9a-4b7c-ba93-43d06d895c25.jpg)
 
 
 
