@@ -20,9 +20,11 @@ https://deokdam.spartacodingclub.kr/LdWZ4Fk7WeP8/index.html
 ![myChallenge (1)](https://user-images.githubusercontent.com/100686498/156162505-4d6a1d70-e32c-4b1c-8480-de6e15b96e67.jpg)
 
 ### 3) 2023 신년 계획 (with 스파르타코딩클럽)
-https://hyejinee24.github.io/My_page/
+https://hyejinee24.github.io/mypage/
 ![2023 신년계획](https://user-images.githubusercontent.com/100686498/205125221-d352d96b-fb9a-4b7c-ba93-43d06d895c25.jpg)
 
+### 4) 드림 네컷 (with 스파르타코딩클럽)
+https://hyejinee24.github.io/4cuts/
 
 
 ## Diary 📖
