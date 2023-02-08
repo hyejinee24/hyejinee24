@@ -1,7 +1,7 @@
 # 🔍 *MY RECORD* 🔎
 ## STUDY 💻 ~ ing :)
 - 👋 안녕하세요 !
-- 👀 프로그래밍에 대해 공부하고 있습니다 ..
+- 👀 웹 프로그래밍에 대해 공부하고 있습니다 ..
 - 🛒 JAVA & SPRING / JAVASCRIPT
 - ‼ 코테 연습
 
@@ -23,9 +23,9 @@ https://deokdam.spartacodingclub.kr/LdWZ4Fk7WeP8/index.html
 https://hyejinee24.github.io/mypage/
 ![2023 신년계획](https://user-images.githubusercontent.com/100686498/205125221-d352d96b-fb9a-4b7c-ba93-43d06d895c25.jpg)
 
-### 4) 드림 네컷 (with 스파르타코딩클럽)
+### 4) 드림네컷 (with 스파르타코딩클럽)
 https://hyejinee24.github.io/4cuts/
-
+![드림네컷](https://user-images.githubusercontent.com/100686498/217502681-c0d8364f-82a8-4b2e-9617-5ff5d39342ca.jpg)
 
 ## Diary 📖
 -220425 velog 시작 !
