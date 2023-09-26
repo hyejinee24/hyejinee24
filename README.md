@@ -1,9 +1,10 @@
-# working now
+# working now ✌
 ✨ 네트워크 엔지니어
 
 
 ***
 
+***
 # 🔍 *MY RECORD* 🔎
 ## STUDY 💻 ~ ing :)
 - 👋 안녕하세요 !
