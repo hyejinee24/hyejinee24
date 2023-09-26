@@ -1,9 +1,15 @@
+# working now
+✨ 네트워크 엔지니어
+
+
+***
+
 # 🔍 *MY RECORD* 🔎
 ## STUDY 💻 ~ ing :)
 - 👋 안녕하세요 !
 - 👀 웹 프로그래밍에 대해 공부하고 있습니다 ..
 - 🛒 JAVA & SPRING / JAVASCRIPT
-- ‼ 코테 연습
+- ‼ ~~코테 연습~~
 
 <!---
 hyejinee24/hyejinee24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
